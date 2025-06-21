@@ -13,7 +13,7 @@ title                    : "Wenhui Yang - Personal Homepage"
 title_separator          : "-"
 name                     : "Wenhui Yang"
 description              : "Economics students"
-url                      : "https://wenhui-y.github.io/academicpages.github.io/"
+url                      : ""
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
