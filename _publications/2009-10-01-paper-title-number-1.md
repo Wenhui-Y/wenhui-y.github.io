@@ -6,7 +6,7 @@ date: 2025-01-01
 venue: "Tourism Economics"
 status: "forthcoming"
 authors: "Wenhui Yang"
-Abstract: This study investigates the impact of tourism experiences on Chinese consumers’ online 
+Abstract: This study investigates the impact of tourism experiences on Chinese consumers' online 
 shopping practices using household-level data from the China Household Finance Survey. Amid rapid 
 technological advancement and the expanding digital economy, understanding how consumption 
 patterns evolve is crucial, particularly in developing economies promoting domestic tourism demand. 
