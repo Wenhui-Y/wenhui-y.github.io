@@ -1,14 +1,19 @@
 ---
-layout: archive
-title: "Portfolio"
+layout: single
+title: "Data & Code"
 permalink: /portfolio/
-author_profile: true
 ---
 
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% assign items = site.portfolio | sort: 'date' | reverse %}
+<ul class="archive-list">
+{% for it in items %}
+  <li>
+    <strong>{{ it.title }}</strong>
+    {% if it.excerpt %} — {{ it.excerpt }}{% endif %}
+    {% if it.links %}
+      {% for L in it.links %} · <a href="{{ L.url }}">{{ L.label }}</a>{% endfor %}
+    {% endif %}
+  </li>
+{% else %}
+  <li><em>You haven't found anything yet.</em></li>
 {% endfor %}
-
