@@ -30,8 +30,7 @@ author:
   employer         : "Guizhou University"
   uri              : "https://wenhui-y.github.io"
   email            : "ywh952719@163.com" 
-  remote_theme     : "mmistakes/minimal-mistakes"
-  minimal_mistakes_skin: "air"
+
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
