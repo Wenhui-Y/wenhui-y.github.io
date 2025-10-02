@@ -1,10 +1,9 @@
 ---
 title: "Navigating the E-commerce Journey: How Tourism Experience Drives Online Shopping via Third-party Payments"
 collection: publications
-permalink: /publication/yang2025-ecommerce-tourism
+permalink: /publication/2025-10-02-my-paper
 date: 2025-01-01
 venue: "Tourism Economics"
-status: "forthcoming"
 authors: "Wenhui Yang"
 abstract: >
   This study investigates the impact of tourism experiences on Chinese consumers' online
